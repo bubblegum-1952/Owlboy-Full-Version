@@ -240,4 +240,4 @@ This repository serves as the official landing page for Owlboy. The software is 
 **Get the most recent version of Owlboy today!**
 
 ---
-**Last updated:** 2026-10-06 20:04:01 UTC
+**Last updated:** 2026-10-07 00:28:15 UTC
